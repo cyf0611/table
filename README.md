@@ -13,7 +13,7 @@ $('#table').setTable({
 	    title: ['ID','name','age'],
 	    //隔行变色,默认为白色，不需设置
 	    color:{
-            title:'red',
+            	    title:'red',
 		    odd: 'blue',
 		    even: 'yellow',
 		    hover: 'pink'
