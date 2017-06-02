@@ -42,4 +42,4 @@ $('#table').setTable({
 		    }
     })
 ```
-**注：data属性也可直接写上url或者本地的json文件，直接写上字符串地址就行，比如data: 'data.json' 或者 data： '数据api地址' **
+** 注：data属性也可直接写上url或者本地的json文件，直接写上字符串地址就行，比如data: 'data.json' 或者 data： '数据api地址' **
